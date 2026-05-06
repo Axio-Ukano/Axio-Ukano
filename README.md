@@ -22,8 +22,8 @@ QA Engineer, Product Analyst, and Frontend Developer with hands-on experience in
 Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product for the restaurant industry — covering automation pipelines, CI/CD, functional specs, and data validation.
 
 - 🔭 QA Engineer & Product Analyst @ Hashtag Applications / Fox Ordering
-- 🎓 Ingeniería Informática @ UNIR (in progress) · Tecnólogo ADSO @ SENA (2024–2026)
 - 📍 Bogotá, Colombia — remote-first with US teams
+- 🗣️ Spanish (Native) · English C1 Advanced (EF SET Certified)
 - 🌱 Exploring: AI-assisted development, advanced testing patterns, UX/UI
 - 🎮 Side quests: gaming, bonsai cultivation, pixel art & cooking
 
@@ -33,7 +33,7 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 
 **QA, Automation & Quality**
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -41,8 +41,8 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 
 **Frontend Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -50,10 +50,10 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 **Data, Tools & Workflow**
 
 ![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -69,20 +69,23 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 
 ## 🎓 Education & Certifications
 
-**Education**
-- Ingeniería Informática — UNIR *(in progress)*
-- Tecnólogo en Análisis y Desarrollo de Software — SENA *(2024–2026, in progress)*
-- Técnico en Integración de Contenidos Digitales — SENA *(2022–2023)*
+**Education** *(most recent first)*
+
+| Degree | Institution | Period |
+|---|---|---|
+| Ingeniería Informática | UNIR | In progress |
+| Tecnólogo en Análisis y Desarrollo de Sistemas de Información | SENA | 2024 – 2026 (in progress) |
+| Técnico en Integración de Contenidos Digitales | SENA | 2022 – 2023 |
 
 **Certifications**
 
 | Certification | Issuer | Year |
 |---|---|---|
 | Introduction to Software Testing | University of Minnesota | 2025 |
-| Meta Front-End Developer Professional Certificate | Meta / Coursera | 2024 |
 | Principles of UX/UI Design | Meta | 2025 |
 | Engineering Management | Platzi | 2025 |
 | Tecnología para Gerentes y Directores | Platzi | 2025 |
+| Meta Front-End Developer Professional Certificate | Meta / Coursera | 2024 |
 
 ---
 
