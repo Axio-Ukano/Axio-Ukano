@@ -71,7 +71,7 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 
 **Education**
 - Ingeniería Informática — UNIR *(in progress)*
-- Tecnólogo en Análisis y Desarrollo de Sistemas — SENA *(2024–2026, in progress)*
+- Tecnólogo en Análisis y Desarrollo de Software — SENA *(2024–2026, in progress)*
 - Técnico en Integración de Contenidos Digitales — SENA *(2022–2023)*
 
 **Certifications**
