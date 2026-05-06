@@ -22,7 +22,7 @@ QA Engineer, Product Analyst, and Frontend Developer with hands-on experience in
 Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product for the restaurant industry — covering automation pipelines, CI/CD, functional specs, and data validation.
 
 - 🔭 QA Engineer & Product Analyst @ Hashtag Applications / Fox Ordering
-- 🎓 Ingeniería Informática @ UNIR (in progress) · Tecnólogo ADSI @ SENA (2024–2026)
+- 🎓 Ingeniería Informática @ UNIR (in progress) · Tecnólogo ADSO @ SENA (2024–2026)
 - 📍 Bogotá, Colombia — remote-first with US teams
 - 🌱 Exploring: AI-assisted development, advanced testing patterns, UX/UI
 - 🎮 Side quests: gaming, bonsai cultivation, pixel art & cooking
