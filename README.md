@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Carlos%20Pico&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=QA%20Automation%20%7C%20Frontend%20Dev%20%7C%20Bogot%C3%A1%2C%20Colombia&descAlignY=58&descSize=18&descColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=QA+Automation+Engineer;Frontend+Developer;Building+minu-garden+%F0%9F%8C%B1;Fox+Ordering+%7C+FoxTrack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=QA+Automation+Engineer;Frontend+Developer;AI-assisted+dev+with+Claude+%26+MCP;Building+Minu%27s+Garden+%F0%9F%8C%B1;Fox+Ordering+%7C+FoxTrack" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-pico)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:og.axioukano@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Axio-Ukano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-pico-qa/)
 
 </div>
 
@@ -16,18 +14,16 @@
 
 ## About Me
 
-```typescript
-const carlos = {
-  role: "QA Automation + Frontend Developer",
-  company: "Fox Ordering (FoxTrack)",
-  location: "Bogota, Colombia",
-  education: "SENA - Software Analysis & Development",
-  currentlyBuilding: "minu-garden — cozy study companion app with Tauri",
-  interests: ["QA Automation", "Frontend Dev", "CI/CD Pipelines", "UI/UX"],
-  hobbies: ["Gaming", "Bonsai", "Anime", "Cooking"],
-  funFact: "I automate tests by day and grow digital gardens by night"
-};
-```
+| | |
+|---|---|
+| **Role** | QA Automation + Frontend Developer |
+| **Company** | Fox Ordering — FoxTrack project |
+| **Location** | Bogota, Colombia |
+| **Education** | SENA — Software Analysis & Development |
+| **Building** | Minu's Garden — cozy study companion desktop app |
+| **AI Workflow** | Claude Code + MCP Servers (GitHub, Playwright, Filesystem) |
+| **Interests** | QA Automation, Frontend Dev, CI/CD, AI-assisted development |
+| **Hobbies** | Gaming, Bonsai, Anime, Cooking |
 
 ---
 
@@ -52,14 +48,18 @@ const carlos = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### AI & Productivity
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## Featured Project
 
-### minu-garden
-> A cozy study companion desktop app built with Tauri. Turn your study sessions into a rewarding experience — earn hearts, nurture your virtual garden, and stay motivated with a wholesome pixel-art atmosphere.
+### Minu's Garden
+> A cozy study companion desktop app built with Tauri + TypeScript. Turn your study sessions into a rewarding experience — earn hearts, nurture your virtual garden, and stay motivated with a wholesome pixel-art atmosphere.
 
-[![minu-garden](https://img.shields.io/badge/minu--garden-v0.6.0-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://github.com/Axio-Ukano/minus-garden)
+[![Minu's Garden](https://img.shields.io/badge/Minu's%20Garden-v0.6.0-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://github.com/Axio-Ukano/minus-garden)
 
 ---
 
