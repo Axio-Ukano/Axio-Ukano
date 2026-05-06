@@ -31,29 +31,54 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 
 ## 🛠️ Tech Stack
 
-**QA, Automation & Quality**
+**QA & Test Automation**
 
-![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-**Frontend Development**
+**Frontend & Desktop**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri_2-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Data, Tools & Workflow**
+**DevOps, Data & Workflow**
 
-![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+**[FoxTrack Automation Framework](https://github.com/Fox-Ordering/FoxTrack-Test)** — `Work`
+
+E2E test automation framework for FoxTrack (restaurant SaaS). Built with Selenium WebDriver, TypeScript and Node.js using the Page Object Model pattern. Features CI/CD via Jenkins + GitHub Actions, ACK verification through Gmail IMAP and OpenPhone API, automated benchmarks, and semantic versioning with release-please.
+
+`TypeScript` `Selenium WebDriver` `Node.js` `Jenkins` `GitHub Actions` `Page Object Model` `Vitest`
+
+---
+
+**[Minu's Garden](https://github.com/Axio-Ukano/minus-garden)** — `Personal`
+
+Desktop app for study sessions with a virtual garden. Built entirely with Tauri 2 (Rust shell) and a React 19 + TypeScript frontend. Persistent state via SQLite through Rusqlite, audio management with Howler, and global state with Zustand 5.
+
+`Tauri 2` `React 19` `TypeScript` `Rust` `SQLite` `Zustand` `Vite` `Vitest`
 
 ---
 
@@ -74,7 +99,7 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 | Degree | Institution | Period |
 |---|---|---|
 | Ingeniería Informática | UNIR | In progress |
-| Tecnólogo en Análisis y Desarrollo de Sistemas de Información | SENA | 2024 – 2026 (in progress) |
+| Tecnólogo en Análisis y Desarrollo de Software | SENA | 2024 – 2026 (in progress) |
 | Técnico en Integración de Contenidos Digitales | SENA | 2022 – 2023 |
 
 **Certifications**
@@ -82,10 +107,9 @@ Currently at **Hashtag Applications / Fox Ordering**, working on a SaaS product 
 | Certification | Issuer | Year |
 |---|---|---|
 | Introduction to Software Testing | University of Minnesota | 2025 |
-| Principles of UX/UI Design | Meta | 2025 |
 | Engineering Management | Platzi | 2025 |
 | Tecnología para Gerentes y Directores | Platzi | 2025 |
-| Meta Front-End Developer Professional Certificate | Meta / Coursera | 2024 |
+| Meta Front-End Developer Professional Certificate *(incl. UX/UI Design, Advanced React, Git)* | Meta / Coursera | 2024 |
 
 ---
 
